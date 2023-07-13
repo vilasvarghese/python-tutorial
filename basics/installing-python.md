@@ -63,7 +63,7 @@ going to make things easier later.
 1. Open a terminal. How exactly this is done depends on your operating
     system, but most operating systems have some way to search for
     programs. Search for a program called terminal and launch it.
-2. Type `python3` and press Enter. You should see something like this:
+2. Type `python3 / python` and press Enter. You should see something like this:
 
     ![Running Python on my terminal.](../images/terminal.png)
 
