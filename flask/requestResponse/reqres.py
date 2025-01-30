@@ -6,7 +6,8 @@ app = Flask(__name__)
 # what html should be loaded as the home page when the app loads?
 @app.route('/')
 def home():
-    return render_template('app_frontend.html', prediction_text="")
+    return render_template('app_frontend.html', prediction_text="test")
+    
 
 # define the logic for reading the inputs from the WEB PAGE, 
 # running the model, and displaying the prediction
